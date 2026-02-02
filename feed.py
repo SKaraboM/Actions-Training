@@ -27,7 +27,7 @@ for item in yaml_data['item']:
         'lenght': item['length']
     })
 output = xml_tree.ElementTree(rss_El)
-output.write("Test.xml", encoding='UTF-8', xml_declaration=True)
+output.write("podcast.xml", encoding='UTF-8', xml_declaration=True)
 
 
     
