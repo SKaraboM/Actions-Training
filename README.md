@@ -71,7 +71,7 @@ The goal is to learn consistently, track progress, and reinforce concepts throug
 
 | Topic | Status | Notes |
 |------|--------|-------|
-| GitHub Essentials | ⏳ In Progress | Got started with github actions first lession |
+| GitHub Essentials | ⏳ In Progress | Got started with github actions first lesson |
 | Java Foundations | ⏳ In Progress | |
 | Docker Foundations | ⏳ In Progress | |
 
